@@ -1,10 +1,14 @@
-<<<<<<< HEAD
-initializing project
+Initializing project.
 
 Started develop branch.
 Developing project further.
 And further...
+<<<<<<< HEAD
 And even further.
+
 =======
-Initializing project.
->>>>>>> hotfixes
+
+Major feature for next release.
+Developing major feature.
+Done with the major feature.
+>>>>>>> featurebranch2

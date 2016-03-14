@@ -5,3 +5,6 @@ Developing project further.
 And further...
 And even further.
 
+Major feature for next release.
+Developing major feature.
+Done with the major feature.
