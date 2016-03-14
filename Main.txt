@@ -6,3 +6,4 @@ And further...
 
 Major feature for next release.
 Developing major feature.
+Done with the major feature.
