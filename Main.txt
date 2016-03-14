@@ -9,6 +9,10 @@ Major feature for next release.
 Developing major feature.
 Done with the major feature.
 
+Adding another major feature.
+Developing second major feature.
+Finalizing second major feature.
+
 Start of release branch for 1.0.
 Bug fixes.
 More bug fixes.
