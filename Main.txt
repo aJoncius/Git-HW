@@ -10,3 +10,4 @@ Developing major feature.
 Done with the major feature.
 
 Start of release branch for 1.0.
+Bug fixes.
