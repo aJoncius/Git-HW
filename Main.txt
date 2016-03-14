@@ -23,3 +23,4 @@ Developing first feature.
 Developing further...
 And done!
 
+Preparing for final release.

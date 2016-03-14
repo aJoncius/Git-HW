@@ -3,7 +3,6 @@ Initializing project.
 Started develop branch.
 Developing project further.
 And further...
-<<<<<<< HEAD
 And even further.
 
 Major feature for next release.
@@ -12,19 +11,15 @@ Done with the major feature.
 
 Adding another major feature.
 Developing second major feature.
+Finalizing second major feature.
 
 Start of release branch for 1.0.
 Bug fixes.
-<<<<<<< HEAD
 More bug fixes.
 Final bug fixes.
-=======
-
 
 Adding some features for future release.
 Developing first feature.
 Developing further...
 And done!
->>>>>>> featurebranch1
-=======
->>>>>>> featurebranch2
+
